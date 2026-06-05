@@ -1,4 +1,5 @@
 interface:
-  display_name: "灵魂写手 / Soul Writer"
+  display_name: "文案成长助手 / Copywriting Growth Assistant"
   short_description: "按当前 IP 配置隔离口吻，写出有本人判断和语气的中文、英文、双语短视频文案。"
-  default_prompt: "用灵魂写手帮我确认当前使用人配置，只加载当前 IP 的专属规则，再做中文/英文短视频文案协作。"
+  default_prompt: "用文案成长助手帮我确认当前使用人配置，只加载当前 IP 的专属规则，再做中文/英文短视频文案协作。"
+

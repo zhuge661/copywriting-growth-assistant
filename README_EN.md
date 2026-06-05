@@ -1,12 +1,12 @@
-# Soul Writer
+# Copywriting Growth Assistant
 
-Soul Writer is a creator-focused script-writing skill for short-form video.
+Copywriting Growth Assistant is a creator-focused script-writing skill for short-form video.
 
 It is not a one-click copywriting template. It helps an AI agent first understand the creator, verify facts, work through the core idea with the creator, confirm the central claim, and then turn that thinking into a spoken script and platform-ready assets.
 
-Chinese name: `灵魂写手`
+Chinese name: `文案成长助手`
 
-Technical ID: `soul-writer`
+Technical ID: `copywriting-growth-assistant`
 
 ## What It Helps With
 
@@ -22,7 +22,7 @@ Technical ID: `soul-writer`
 
 Great creator writing is not just wording. It is the creator's judgment, rhythm, worldview, and emotional temperature.
 
-Soul Writer is designed around one rule:
+Copywriting Growth Assistant is designed around one rule:
 
 > Define the person before writing the copy.
 
@@ -30,7 +30,7 @@ Before drafting, the skill reads `references/creator-profile.md` and, when relev
 
 ## Bilingual Analysis By Default
 
-Soul Writer now treats bilingual output as the default. Unless the creator explicitly asks for Chinese-only or English-only, all analysis should include Chinese + English:
+Copywriting Growth Assistant now treats bilingual output as the default. Unless the creator explicitly asks for Chinese-only or English-only, all analysis should include Chinese + English:
 
 - facts;
 - possible angles;
@@ -41,7 +41,7 @@ Soul Writer now treats bilingual output as the default. Unless the creator expli
 - packages;
 - captions.
 
-Soul Writer does not treat English output as a direct translation of Chinese copy.
+Copywriting Growth Assistant does not treat English output as a direct translation of Chinese copy.
 
 For English or bilingual work, it rebuilds the idea for an English-speaking audience:
 
@@ -103,7 +103,7 @@ When asked for analysis, `English analysis`, `English version`, `bilingual`, or 
 ## Files
 
 ```text
-soul-writer/
+copywriting-growth-assistant/
 ├── SKILL.md
 ├── SKILL_EN.md
 ├── README.md
@@ -140,3 +140,4 @@ soul-writer/
 ## License
 
 MIT License. See `LICENSE`.
+

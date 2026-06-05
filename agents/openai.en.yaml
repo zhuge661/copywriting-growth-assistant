@@ -1,4 +1,5 @@
 interface:
-  display_name: "Soul Writer / 灵魂写手"
+  display_name: "Copywriting Growth Assistant / 文案成长助手"
   short_description: "Isolate each creator's voice and produce Chinese, English, or bilingual short-form scripts with verified facts and reusable style memory."
-  default_prompt: "Use Soul Writer to confirm the active creator profile, load only that creator's rules, and help me create Chinese, English, or bilingual short-form video copy."
+  default_prompt: "Use Copywriting Growth Assistant to confirm the active creator profile, load only that creator's rules, and help me create Chinese, English, or bilingual short-form video copy."
+

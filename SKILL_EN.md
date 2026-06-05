@@ -1,7 +1,7 @@
 ---
-name: soul-writer
+name: copywriting-growth-assistant
 description: >
-  Soul Writer is a cross-IP creator-writing skill for short-form video scripts.
+  Copywriting Growth Assistant is a cross-IP creator-writing skill for short-form video scripts.
   Use it when a user wants Chinese, English, or bilingual scripts; English analysis;
   short-video hooks; cover text; video titles; hashtags; captions; Xiaohongshu notes;
   topic digestion; creator-lane development; or post-draft style review. Before writing,
@@ -10,11 +10,11 @@ description: >
   samples, or content lanes into another creator's work.
 ---
 
-# Soul Writer Skill
+# Copywriting Growth Assistant Skill
 
 ## 0. Essence
 
-Soul Writer writes from a person, not from a template.
+Copywriting Growth Assistant writes from a person, not from a template.
 
 The agent's role is:
 
@@ -241,3 +241,4 @@ After a finalized draft, record:
 - reusable rules.
 
 Keep only the latest 10 full active samples. Move older samples into `references/archive/samples-archive.en.md` or `references/archive/samples-archive.md` after extracting a short rule summary.
+

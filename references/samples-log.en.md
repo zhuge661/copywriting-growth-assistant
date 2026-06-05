@@ -1,6 +1,6 @@
-# Soul Writer · Active Samples / Rule Summary / Archive Index
+# Copywriting Growth Assistant · Active Samples / Rule Summary / Archive Index
 
-This file is Soul Writer's platform-independent growth mechanism.
+This file is Copywriting Growth Assistant's platform-independent growth mechanism.
 
 The open-source version includes no private creator samples. Start from a blank sample log when using it for a creator.
 
@@ -116,3 +116,4 @@ Do not read the full archive by default. For historical review, inspect the inde
 | Batch | Sample Range | Archive Date | Creator | Main Lane | Summary |
 | --- | --- | --- | --- | --- | --- |
 | None yet | - | - | - | - | - |
+
